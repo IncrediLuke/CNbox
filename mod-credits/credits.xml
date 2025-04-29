@@ -1,0 +1,21 @@
+<!--
+FORMATTING:
+• (!line) - new line
+• (!bold/TEXT) - bold text
+• (!underline/TEXT) - underlined text
+• (!italic/text) - italic text
+• (!color/#HEX/TEXT) - colored text
+• (!emoji/EMOJI.png) - emoji
+• (!size/XXpx/TEXT) - text size
+• (!youtube/VIDEO_URL) - youtube video
+• (!button/#HEX/ICON.png/LINK/TEXT) - button
+• (!hr) - horizontal line
+-->
+
+<credits>
+  <page 
+  noImage="false"
+  image="mod-credits/01_tem-hd.png"
+  title="Credits"
+  text="(!bold/CNbox) (!line) (!line) CollegeNollegeYT - Director, composer, lead designer, lead animator and coder (!line) Gontale - Secondary animator (!line) The Ducking Modder - Secondary designer (!line) MishaBring - Bonus animator and storyboard artist (!line) R.K - Third designer (!line) (!line) (!bold/Thanks to Rem for the build!) (!line) (!bold/And another thanks to LexLim for helping us with Version 2!)"
+  />
